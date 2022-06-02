@@ -1,0 +1,8 @@
+C:\Git_Repos\operator_exercise\Operator Exercise\obj\Debug\Operator Exercise.csproj.AssemblyReference.cache
+C:\Git_Repos\operator_exercise\Operator Exercise\obj\Debug\Operator Exercise.csproj.SuggestedBindingRedirects.cache
+C:\Git_Repos\operator_exercise\Operator Exercise\obj\Debug\Operator Exercise.csproj.CoreCompileInputs.cache
+C:\Git_Repos\operator_exercise\Operator Exercise\bin\Debug\Operator Exercise.exe.config
+C:\Git_Repos\operator_exercise\Operator Exercise\bin\Debug\Operator Exercise.exe
+C:\Git_Repos\operator_exercise\Operator Exercise\bin\Debug\Operator Exercise.pdb
+C:\Git_Repos\operator_exercise\Operator Exercise\obj\Debug\Operator Exercise.exe
+C:\Git_Repos\operator_exercise\Operator Exercise\obj\Debug\Operator Exercise.pdb
